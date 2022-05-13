@@ -13,6 +13,7 @@ Desenvolvimento de um simples projeto CRUD (Entidade: Usuário) utilizando o ace
 ## Como instalar:
 
 - Adicionar um arquivo .env na raiz da pasta "backend" e adicionar o seguinte código:
+
 DATABASE="SEU_DATABASE"
 
 HOST="HOST_DATABASE"
